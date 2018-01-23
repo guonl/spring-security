@@ -18,4 +18,4 @@
 2. 修改application.yml中数据源信息，执行db文件夹下面的sql文件
 3. 修改application-dev.yml 中redis连接信息
 
-[Spring Security系列](https://longfeizheng.github.io/categories/#Security)
+[Spring Security系列](http://blog.guonl.cn/categories/#Security)
